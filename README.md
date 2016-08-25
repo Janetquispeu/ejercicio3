@@ -1,4 +1,5 @@
 # Diagrama de Flujo
+Realizar un algoritmo que determine el sueldo semanal de un trabajador con base en las horas que trabaja y el pago por hora que recibe.
 
 1. Inicio
 2. Ingrese n1   //n1=pago
